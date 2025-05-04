@@ -36,7 +36,6 @@ Where:
 
 ![Triangle wave](./images/triangle_scope.jpg)
 
-## BOM
 
 | Component | Value |
 |----------|-------|
