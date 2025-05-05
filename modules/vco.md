@@ -1,9 +1,14 @@
 ---
 layout: default
 title: "VCO Module"
+image: /assets/images/vco.jpg
 ---
-# Voltage-Controlled Oscillator (VCO)
-![VCO Schematic](/assets/images/vco-schematic.png)
-Specifications:
-- Frequency range: 20Hz–20kHz
-- Waveforms: Sine, Square, Saw
+
+![VCO Schematic]({{ page.image }})
+
+## Specifications
+- **Waveforms:** Sine, Square, Saw
+- **Frequency Range:** 20Hz – 20kHz
+- **Voltage Control:** 1V/Oct
+
+[Back to Modules](/modules)

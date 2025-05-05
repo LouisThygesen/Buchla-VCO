@@ -5,6 +5,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+url: "https://yourusername.github.io"
+baseurl: ""
+permalink: pretty # Clean URLs (e.g., /modules/vco/)
+
 header_pages:
   - about.md
   - modules.md
