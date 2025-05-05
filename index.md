@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Building a Triangle Core VCO"
 ---
 
 <script type="text/javascript" async
